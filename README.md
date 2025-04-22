@@ -77,5 +77,3 @@ pip install spotipy
 
 MIT License
 Made with 💚 by @0bx0
-
-Let me know if you'd like a version with emoji removed, more dev-focused, or more aesthetic/minimal!
