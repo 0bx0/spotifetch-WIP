@@ -69,9 +69,6 @@ pip install spotipy
 
     Better error handling & formatting
 
-# 🧠 Tip
-
-
 
 📄 License
 
